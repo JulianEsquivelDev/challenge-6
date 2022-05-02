@@ -1,7 +1,7 @@
 # challenge-6
 
 # About the application
-Using JavaScript to fetch the api data from OpenWeather the User can see the temperature, uvIndex, wind speed, and humidity when they enter a city in the search bar. They are
+Using JavaScript to fetch the api data from OpenWeather the User can see the current temperature, uvIndex, wind speed, and humidity when they enter a city in the search bar. They are
 also presented with the 5 day forecast of the same city. 
 
 ## Image of application
